@@ -17,7 +17,7 @@ Soy un apasionado de la tecnología, siempre buscando formas de utilizarla para 
 - **Backend**: NodeJS, Python, Java, C#
 - **Desarrollo Móvil**: Swift (UI y Desktop), Dart, Kotlin, Apache Cordova,.NET MAUI, Flutter
 - **Machine Learning / AI**: Keras, MediaPipe, NumPy
-- **Bases de Datos**: SQL, MySQL, Firebase
+- **Bases de Datos**: SQL, MySQL, Firebase, NoSQL
 - **Otros**: Jupyter
 
 ## 🌍 Idiomas
