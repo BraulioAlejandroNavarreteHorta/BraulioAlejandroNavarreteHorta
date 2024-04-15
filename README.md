@@ -8,6 +8,7 @@ Soy un apasionado de la tecnología, siempre buscando formas de utilizarla para 
 ## 💼 Experiencia Profesional
 - **E-commerce**: Estoy desarrollando un proyecto de comercio electrónico para una empresa muy importante dentro del ámbito de compra y venta de material para la elbaoración de calzado utilizando React commo tecnología principal.
 - **Colaboración en Proyecto de Aplicación Móvil**: Actualmente, estoy colaborando en un emocionante proyecto de desarrollo de una aplicación móvil multiplataforma utilizando Flutter commo tecnología principal.
+- **Particiáción de proyectos**: Participación en la presentación de proyectos importantes en la Universidad La Salle Bajío, uno de ellos es una investigación y demostración de como el machine learning ayuda a perfeccionar la técnica en el ámbito deportivo para evitar lesiones graves, esto fue gracias a la visión de procesamiento de imágenes en computadora usando python, cabe recalcar que este proyecto obtuvo el tercer lugar. Otro proyecto fue una solución al congestamiento de automóviles en los estacionamientos de la Universidad La Salle Bajío, desarrollando una aplicación multiplataforma en tiempo real que demuestre la disponibilidad de espacios hacia el usuario.
 - **Liderazgo en Proyectos Escolares**: Gestión efectiva de equipos para llevar a cabo proyectos, poniendo énfasis en la creatividad y la solución efectiva de problemas.
 - **Industria del Calzado y Marroquinería**: Amplia experiencia en comercio, atención al cliente y manejo de procesos delicados dentro de este sector.
 
