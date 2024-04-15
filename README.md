@@ -6,6 +6,7 @@ Estoy cursando el sexto semestre de la **Ingeniería en Software y Sistemas Comp
 Soy un apasionado de la tecnología, siempre buscando formas de utilizarla para facilitar, agilizar y mejorar los procesos y la vida cotidiana. Me caracterizo por liderar proyectos escolares, con un fuerte enfoque en la innovación y los desafíos, y me considero un solucionador nato, preparado para enfrentar cualquier situación.
 
 ## 💼 Experiencia Profesional
+- **E-commerce**: Estoy desarrollando un proyecto de comercio electrónico para una empresa muy importante dentro del ámbito de compra y venta de material para la elbaoración de calzado utilizando React commo tecnología principal.
 - **Colaboración en Proyecto de Aplicación Móvil**: Actualmente, estoy colaborando en un emocionante proyecto de desarrollo de una aplicación móvil multiplataforma utilizando Flutter commo tecnología principal.
 - **Liderazgo en Proyectos Escolares**: Gestión efectiva de equipos para llevar a cabo proyectos, poniendo énfasis en la creatividad y la solución efectiva de problemas.
 - **Industria del Calzado y Marroquinería**: Amplia experiencia en comercio, atención al cliente y manejo de procesos delicados dentro de este sector.
