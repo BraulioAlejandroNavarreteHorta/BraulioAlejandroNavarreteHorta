@@ -39,6 +39,31 @@ Fuera de la tecnología, me apasiona el **levantamiento de pesas** y el **fútbo
 
 ¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y nuevas oportunidades. No dudes en [contactarme](donyale132@gmail.com).
 
+| Caso de Uso                                      | Cumple (🟩/🟥) |
+|--------------------------------------------------|---------------|
+| **Gestionar Empresas**                           |               |
+| - CRUD de Empresas (Experto - Modo Edición)      |               |
+| - Navegar entre el contenido de la empresa       |               |
+| **Gestionar Suscripciones**                      |               |
+| - CRUD de Suscripciones (Experto - Modo Edición) |               |
+| **Gestionar Vulnerabilidades**                   |               |
+| - CRUD de Vulnerabilidades (Experto)             |               |
+| **Gestionar Planes de Remediación**              |               |
+| - CRUD de Planes de Remediación (Experto)        |               |
+| **Gestión de Diagnósticos**                      |               |
+| - CRUD de Diagnósticos (Experto)                 |               |
+| **Gestionar Colaboradores**                      |               |
+| - CRUD de Colaboradores                          |               |
+| **Gestionar Planes de Remediación x Responsable**|               |
+| - CRUD de Planes x Responsable                   |               |
+| **Gestionar Escáner**                            |               |
+| - Ejecutar escáner                               |               |
+| - Visualizar resultados                          |               |
+| **Gestionar Diagnósticos x Responsable**         |               |
+| - Responder diagnósticos                         |               |
+| - Visualizar resultados                          |               |
+
+
 <!---
 BraulioAlejandroNavarreteHorta/BraulioAlejandroNavarreteHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
